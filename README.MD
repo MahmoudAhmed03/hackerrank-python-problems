@@ -4,7 +4,7 @@ Welcome to my Python solutions for the [HackerRank Python track](https://www.hac
 
 ## ✅ Progress Overview
 
-- ✔️ **Completed:** All problems from **"Introduction"** to **"Built-Ins"**
+- ✔️ **Completed:** All problems from **"Introduction"** to **"Python Functionals"**
 - 🚧 **Upcoming:** Working through the remaining sections (e.g., `Collections`, `Date and Time`, `Errors`, `Classes`, etc.) — will complete them **as fast as possible**
 - ⭐ **Achievement:** Reached **5 stars in Python** on HackerRank
 - 📜 **Certificate:** Earned the **Python (Basic) Certificate** from HackerRank
